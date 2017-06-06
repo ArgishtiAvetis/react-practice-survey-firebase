@@ -4,12 +4,7 @@ const uuid = require('uuid');
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyBjbH_GhmP0XlKt9_8VFG5Ha-1do2jkHak",
-  authDomain: "u-survey-1af5d.firebaseapp.com",
-  databaseURL: "https://u-survey-1af5d.firebaseio.com",
-  projectId: "u-survey-1af5d",
-  storageBucket: "u-survey-1af5d.appspot.com",
-  messagingSenderId: "63151073824"
+  youApiConfigHere: ''
 };
 firebase.initializeApp(config);
 
